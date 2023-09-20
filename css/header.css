@@ -1,0 +1,40 @@
+.menu {
+    background: #AF0606;
+    width: 100%;
+    height: 100px;
+    line-height: 100px;
+  }
+
+  .inner {
+    width: 95%;
+    margin: auto;
+  }
+  
+  
+.m-center {
+    float: center;
+  
+  }
+  
+.logo {
+  display: flex;
+  margin: -90px 450px;
+  
+}
+
+  .Title {
+    margin: 0;
+    padding: 0;
+    color: #FFF;
+    text-transform: uppercase;
+    font-family: 'Lato';
+    font-weight: 900;
+    font-size: 35px;
+    letter-spacing: 2px;
+    text-decoration: underline;
+  }
+
+  .icon {
+    padding: 0;
+    margin: -4px 5px;
+  }
