@@ -4,7 +4,7 @@
 html, body {
     margin: 0;
     padding: 0;
-    background: url("../img/background.png");
+    background: url("../img/background.jpg");
     background-size: 100%;
     font-family: 'lato';
     font-weight: 400;
@@ -14,6 +14,7 @@ h1 {
     text-align: center;
     font-family: Lato;
     font-weight: 400;
+    color: #FFF;
 }
 
 h2 {
@@ -21,6 +22,7 @@ h2 {
     font-family: Lato;
     font-weight: 900;
     text-decoration: underline;
+    color: #FFF;
 }
 
 h3 {
@@ -28,6 +30,7 @@ h3 {
     font-family: Lato;
     font-weight: 700;
     text-decoration: underline;
+    color: #FFF;
 }
 
 li {
@@ -35,5 +38,6 @@ li {
     font-weight: 300;
     text-align: center;
     padding: 2px;
+    color: #FFF;
     
 }
