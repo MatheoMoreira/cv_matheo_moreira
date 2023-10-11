@@ -4,17 +4,18 @@
 html, body {
     margin: 0;
     padding: 0;
-    background: url("../img/background.jpg");
+    background-color: #EDF2F4;
     background-size: 100%;
     font-family: 'lato';
     font-weight: 400;
+    margin-top: 60px;
 }
 
 h1 {
     text-align: center;
     font-family: Lato;
     font-weight: 400;
-    color: #FFF;
+    color: #000;
 }
 
 h2 {
@@ -22,7 +23,7 @@ h2 {
     font-family: Lato;
     font-weight: 900;
     text-decoration: underline;
-    color: #FFF;
+    color: #000;
 }
 
 h3 {
@@ -30,14 +31,14 @@ h3 {
     font-family: Lato;
     font-weight: 700;
     text-decoration: underline;
-    color: #FFF;
+    color: #000;
 }
 
 li {
     font-family: Lato;
     font-weight: 300;
     padding: 2px;
-    color: #FFF;
+    color: #000;
     text-align: center;
 }
 
