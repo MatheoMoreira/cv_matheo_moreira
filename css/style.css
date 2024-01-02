@@ -1,6 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=roboto:100,300,500,900');
 @import url('https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900');
 
+@media screen and (max-width: 600px) {
+    /* Styles pour les petits écrans (par exemple, les téléphones) */
+}
+  
+@media screen and (min-width: 601px) and (max-width: 1024px) {
+    /* Styles pour les écrans de taille moyenne (par exemple, les tablettes) */
+}
+  
+@media screen and (min-width: 1025px) {
+    /* Styles pour les grands écrans (par exemple, les ordinateurs de bureau) */
+}
+
 html, body {
     margin: 0;
     padding: 0;
