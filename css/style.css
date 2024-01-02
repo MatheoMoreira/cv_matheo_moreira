@@ -59,10 +59,10 @@ li {
 .div-left {
     float: left;
     margin-top: 20px;
-    margin-left: 100px;
+    margin-left: 10px;
 }
 .div-right {
     float: right;
     margin-top: 20px;
-    margin-right: 100px;
+    margin-right: 10px;
 }
